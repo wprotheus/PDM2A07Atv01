@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PDM2A07Atv01</string>
+    <string name="location_permission_rationale">Esta aplicação requer acesso à sua localização para funcionar corretamente.</string>
+    <string name="ponto_geodesico">Praça dos Girassóis - Monumento à Bíblia - Centro Geodésico do Brasil.</string>
+    <string name="ponto_geografico">Pontos geográficos: </string>
+    <string name="lattd">Latitude: </string>
+    <string name="longtd"> Longitude: </string>
+
+</resources>
